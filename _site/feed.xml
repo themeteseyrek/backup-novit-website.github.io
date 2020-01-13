@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-13T16:13:43+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Novit.ai</title><subtitle>Real and actionable industry insights from global machine learning</subtitle><author><name>Novit.ai</name></author><entry><title type="html">Grace 1 Detection Report</title><link href="http://localhost:4000/2019/07/06/grace1-report.html" rel="alternate" type="text/html" title="Grace 1 Detection Report" /><published>2019-07-06T13:45:13+03:00</published><updated>2019-07-06T13:45:13+03:00</updated><id>http://localhost:4000/2019/07/06/grace1-report</id><content type="html" xml:base="http://localhost:4000/2019/07/06/grace1-report.html">&lt;p&gt;&lt;strong&gt;GRACE 1 DETECTION REPORT&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-13T18:19:44+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Novit.ai</title><subtitle>Real and actionable industry insights from global machine learning</subtitle><author><name>Novit.ai</name></author><entry><title type="html">Job &amp;amp; Internship Applications Open</title><link href="http://localhost:4000/2020/01/13/applications-open.html" rel="alternate" type="text/html" title="Job &amp; Internship Applications Open" /><published>2020-01-13T13:45:13+03:00</published><updated>2020-01-13T13:45:13+03:00</updated><id>http://localhost:4000/2020/01/13/applications-open</id><content type="html" xml:base="http://localhost:4000/2020/01/13/applications-open.html">&lt;p&gt;&lt;strong&gt;Job and Internship Applications Open&lt;/strong&gt;&lt;/p&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+.postimg {
+	width: 729px;
+}
+&lt;/style&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i&gt;This job advert can be downloaded as a PDF from &lt;a href=&quot;/jobs/nv-7-job-machinelearning-junior.pdf&quot; download=&quot;&quot;&gt;here.&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights. We are now seeking engineers who are makers at soul to help us create the next generation of intelligence on earth.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Contact us with your CV and your github/gitlab/personal website via &lt;a href=&quot;mailto:careers@novit.ai&quot;&gt;careers@novit.ai&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;
+Ankara, Turkey – Novit.AI @ ODTU Teknokent&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Role:&lt;/strong&gt;
+As a Junior Machine Learning Engineer, you will be a core member of he team in developing our AI
+system for processing spaceborne image and radar data. The ideal candidate would be passionate about
+creating intelligent products never seen elsewhere before. You must be a self-starter, responsive,
+flexible, and able to succeed within an open collaborative peer environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The ideal candidate:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Enjoys working side by side with partners, colleagues and teams on tough problems&lt;/li&gt;
+  &lt;li&gt;Is highly effective and thrives in a dynamic environment with multiple, changing priorities&lt;/li&gt;
+  &lt;li&gt;Is comfortable with proactive outward communication and technical leadership and never shies away
+from a challenge&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;BASIC QUALIFICATIONS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;BSc degree in Computer Science, Computer Engineering, Electrical Engineering or related
+engineering field&lt;/li&gt;
+  &lt;li&gt;Native level fluency in Python&lt;/li&gt;
+  &lt;li&gt;Excellent command of written and spoken English&lt;/li&gt;
+  &lt;li&gt;Knowledge and understanding of Linux&lt;/li&gt;
+  &lt;li&gt;Experience with development tools like git version control system, ssh, gcc and make&lt;/li&gt;
+  &lt;li&gt;Knowledge of data science and machine learning concepts&lt;/li&gt;
+  &lt;li&gt;Experience with PyTorch or Tensorflow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;PREFERRED QUALIFICATIONS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Master’s degree or higher in Computer Science, Computer Engineering, Electrical Engineering or
+related field&lt;/li&gt;
+  &lt;li&gt;Familiarity with GCP or AWS and related cloud tools is a plus.&lt;/li&gt;
+  &lt;li&gt;Experience with software testing (unit, regression and system testing), continuous integration &amp;amp;
+deployment is an advantage.&lt;/li&gt;
+  &lt;li&gt;Experience with data gathering and labelling from esoteric sources is an advantage.&lt;/li&gt;
+  &lt;li&gt;Experience with Octave/Erlang/LISP/Haskell is an advantage.&lt;/li&gt;
+  &lt;li&gt;Familiarity with geospatial tools and processing techniques is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Contact us with your CV and your github/gitlab/personal website via &lt;a href=&quot;mailto:careers@novit.ai&quot;&gt;careers@novit.ai&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i &lt; links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Job and Internship Applications Open</summary></entry><entry><title type="html">Grace 1 Detection Report</title><link href="http://localhost:4000/2019/07/06/grace1-report.html" rel="alternate" type="text/html" title="Grace 1 Detection Report" /><published>2019-07-06T13:45:13+03:00</published><updated>2019-07-06T13:45:13+03:00</updated><id>http://localhost:4000/2019/07/06/grace1-report</id><content type="html" xml:base="http://localhost:4000/2019/07/06/grace1-report.html">&lt;p&gt;&lt;strong&gt;GRACE 1 DETECTION REPORT&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i&gt;To download this report as a PDF &lt;a href=&quot;/cases/ship_ai_discovery.pdf&quot; download=&quot;&quot;&gt;click here.&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;

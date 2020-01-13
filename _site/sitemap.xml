@@ -5,6 +5,10 @@
 <lastmod>2019-07-06T13:45:13+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2020/01/13/applications-open.html</loc>
+<lastmod>2020-01-13T13:45:13+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
@@ -19,5 +23,9 @@
 <url>
 <loc>http://localhost:4000/cases/ship_ai_discovery.pdf</loc>
 <lastmod>2020-01-13T15:53:02+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jobs/nv-7-job-machinelearning-junior.pdf</loc>
+<lastmod>2020-01-13T18:00:23+03:00</lastmod>
 </url>
 </urlset>
