@@ -1,1 +1,0 @@
-# novit-website.github.io
