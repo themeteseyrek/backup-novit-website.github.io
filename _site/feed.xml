@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-13T18:19:44+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Novit.ai</title><subtitle>Real and actionable industry insights from global machine learning</subtitle><author><name>Novit.ai</name></author><entry><title type="html">Job &amp;amp; Internship Applications Open</title><link href="http://localhost:4000/2020/01/13/applications-open.html" rel="alternate" type="text/html" title="Job &amp; Internship Applications Open" /><published>2020-01-13T13:45:13+03:00</published><updated>2020-01-13T13:45:13+03:00</updated><id>http://localhost:4000/2020/01/13/applications-open</id><content type="html" xml:base="http://localhost:4000/2020/01/13/applications-open.html">&lt;p&gt;&lt;strong&gt;Job and Internship Applications Open&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-14T15:07:11+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Novit.ai</title><subtitle>Real and actionable industry insights from global machine learning</subtitle><author><name>Novit.ai</name></author><entry><title type="html">Job &amp;amp; Internship Applications Open</title><link href="http://localhost:4000/2020/01/13/applications-open.html" rel="alternate" type="text/html" title="Job &amp; Internship Applications Open" /><published>2020-01-13T13:45:13+03:00</published><updated>2020-01-13T13:45:13+03:00</updated><id>http://localhost:4000/2020/01/13/applications-open</id><content type="html" xml:base="http://localhost:4000/2020/01/13/applications-open.html">&lt;p&gt;&lt;strong&gt;Job and Internship Applications Open&lt;/strong&gt;&lt;/p&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 .postimg {
@@ -72,7 +72,92 @@ deployment is an advantage.&lt;/li&gt;
     }
   }
 })();
-&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Job and Internship Applications Open</summary></entry><entry><title type="html">Grace 1 Detection Report</title><link href="http://localhost:4000/2019/07/06/grace1-report.html" rel="alternate" type="text/html" title="Grace 1 Detection Report" /><published>2019-07-06T13:45:13+03:00</published><updated>2019-07-06T13:45:13+03:00</updated><id>http://localhost:4000/2019/07/06/grace1-report</id><content type="html" xml:base="http://localhost:4000/2019/07/06/grace1-report.html">&lt;p&gt;&lt;strong&gt;GRACE 1 DETECTION REPORT&lt;/strong&gt;&lt;/p&gt;
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Job and Internship Applications Open</summary></entry><entry><title type="html">Novit.AI Background Pack</title><link href="http://localhost:4000/2020/01/01/novitai-background-pack.html" rel="alternate" type="text/html" title="Novit.AI Background Pack" /><published>2020-01-01T16:23:13+03:00</published><updated>2020-01-01T16:23:13+03:00</updated><id>http://localhost:4000/2020/01/01/novitai-background-pack</id><content type="html" xml:base="http://localhost:4000/2020/01/01/novitai-background-pack.html">&lt;p&gt;&lt;strong&gt;Novit.AI Background Pack&lt;/strong&gt;&lt;/p&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+.postimg {
+	width: 729px;
+}
+&lt;/style&gt;
+
+&lt;p&gt;Happy new year!&lt;/p&gt;
+
+&lt;p&gt;Our preprocessing team has created some background images that we use internally in our computers. We’ve decided to share them with you as we think SAR images from space look cool.&lt;/p&gt;
+
+&lt;p&gt;Display Sizes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#uwd&quot;&gt;Ultra Wide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#uhd&quot;&gt;Ultra HD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;uwd&quot; style=&quot;top:-90px; position: relative;&quot;&gt;&lt;/a&gt;
+&lt;strong&gt;Ultra Wide Display&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bright - Bottom
+&lt;a href=&quot;/img/backgrounds/novitai_bright_uwd_logobottom.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_bright_uwd_logobottom-729w.jpg&quot; width=&quot;729&quot; height=&quot;303&quot; /&gt;&lt;/a&gt;
+Bright - Top
+&lt;a href=&quot;/img/backgrounds/novitai_bright_uwd_logotop.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_bright_uwd_logotop-729w.jpg&quot; width=&quot;729&quot; height=&quot;303&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Island - Bottom
+&lt;a href=&quot;/img/backgrounds/novitai_island_uwd_logobottom.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_island_uwd_logobottom-729w.jpg&quot; width=&quot;729&quot; height=&quot;303&quot; /&gt;&lt;/a&gt;
+Island - Top
+&lt;a href=&quot;/img/backgrounds/novitai_island_uwd_logotop.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_island_uwd_logotop-729w.jpg&quot; width=&quot;729&quot; height=&quot;303&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Shore - Bottom
+&lt;a href=&quot;/img/backgrounds/novitai_shore_uwd_logobottom.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_shore_uwd_logobottom-729w.jpg&quot; width=&quot;729&quot; height=&quot;303&quot; /&gt;&lt;/a&gt;
+Shore - Top
+&lt;a href=&quot;/img/backgrounds/novitai_shore_uwd_logotop.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_shore_uwd_logotop-729w.jpg&quot; width=&quot;729&quot; height=&quot;303&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;uhd&quot; style=&quot;top:-90px; position: relative;&quot;&gt;&lt;/a&gt;
+&lt;strong&gt;Ultra HD Display&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bright Island - Bottom
+&lt;a href=&quot;/img/backgrounds/novitai_brightisland_uhd_logobottom.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_brightisland_uhd_logobottom-729w.jpg&quot; width=&quot;729&quot; height=&quot;455&quot; /&gt;&lt;/a&gt;
+Bright Island - Top
+&lt;a href=&quot;/img/backgrounds/novitai_brightisland_uhd_logotop.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_brightisland_uhd_logotop-729w.jpg&quot; width=&quot;729&quot; height=&quot;455&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Bright Shore - Bottom
+&lt;a href=&quot;/img/backgrounds/novitai_brightshore_uhd_logobottom.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_brightshore_uhd_logobottom-729w.jpg&quot; width=&quot;729&quot; height=&quot;455&quot; /&gt;&lt;/a&gt;
+Bright Shore - Top
+&lt;a href=&quot;/img/backgrounds/novitai_brightshore_uhd_logotop.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_brightshore_uhd_logotop-729w.jpg&quot; width=&quot;729&quot; height=&quot;455&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Shore - Bottom
+&lt;a href=&quot;/img/backgrounds/novitai_shore_uhd_logobottom.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_shore_uhd_logobottom-729w.jpg&quot; width=&quot;729&quot; height=&quot;455&quot; /&gt;&lt;/a&gt;
+Shore - Top
+&lt;a href=&quot;/img/backgrounds/novitai_shore_uhd_logotop.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_shore_uhd_logotop-729w.jpg&quot; width=&quot;729&quot; height=&quot;455&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Island - Bottom
+&lt;a href=&quot;/img/backgrounds/novitai_island_uhd_logobottom.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_island_uhd_logobottom-729w.jpg&quot; width=&quot;729&quot; height=&quot;410&quot; /&gt;&lt;/a&gt;
+Island - Top
+&lt;a href=&quot;/img/backgrounds/novitai_island_uhd_logotop.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_island_uhd_logotop-729w.jpg&quot; width=&quot;729&quot; height=&quot;410&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Shore - Bottom
+&lt;a href=&quot;/img/backgrounds/novitai_shore_uhd_logobottom.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_shore_uhd_logobottom-729w.jpg&quot; width=&quot;729&quot; height=&quot;455&quot; /&gt;&lt;/a&gt;
+Shore - Top
+&lt;a href=&quot;/img/backgrounds/novitai_shore_uhd_logotop.jpg&quot; target=&quot;_blank&quot; class=&quot;thumb&quot;&gt;&lt;img src=&quot;/img/backgrounds/novitai_shore_uhd_logotop-729w.jpg&quot; width=&quot;729&quot; height=&quot;455&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Contact us at &lt;a href=&quot;mailto:info@novit.ai&quot;&gt;info@novit.ai&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i &lt; links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Novit.AI Background Pack</summary></entry><entry><title type="html">Grace 1 Detection Report</title><link href="http://localhost:4000/2019/07/06/grace1-report.html" rel="alternate" type="text/html" title="Grace 1 Detection Report" /><published>2019-07-06T13:45:13+03:00</published><updated>2019-07-06T13:45:13+03:00</updated><id>http://localhost:4000/2019/07/06/grace1-report</id><content type="html" xml:base="http://localhost:4000/2019/07/06/grace1-report.html">&lt;p&gt;&lt;strong&gt;GRACE 1 DETECTION REPORT&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i&gt;To download this report as a PDF &lt;a href=&quot;/cases/ship_ai_discovery.pdf&quot; download=&quot;&quot;&gt;click here.&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
