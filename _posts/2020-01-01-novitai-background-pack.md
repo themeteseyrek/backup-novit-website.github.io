@@ -25,53 +25,72 @@ Display Sizes:
 <a name="uwd" style="top:-90px; position: relative;"></a>
 **Ultra Wide Display**
 
+{% assign image_path="/img/backgrounds/novitai_bright_uwd_logobottom.jpg" %}
 Bright - Bottom
-{% thumb src="/img/backgrounds/novitai_bright_uwd_logobottom.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
+{% assign image_path="/img/backgrounds/novitai_bright_uwd_logotop.jpg" %}
 Bright - Top
-{% thumb src="/img/backgrounds/novitai_bright_uwd_logotop.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
 <hr />
+{% assign image_path="/img/backgrounds/novitai_island_uwd_logobottom.jpg" %}
 Island - Bottom
-{% thumb src="/img/backgrounds/novitai_island_uwd_logobottom.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
+{% assign image_path="/img/backgrounds/novitai_island_uwd_logotop.jpg" %}
 Island - Top
-{% thumb src="/img/backgrounds/novitai_island_uwd_logotop.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
 <hr />
+{% assign image_path="/img/backgrounds/novitai_shore_uwd_logobottom.jpg" %}
 Shore - Bottom
-{% thumb src="/img/backgrounds/novitai_shore_uwd_logobottom.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
+{% assign image_path="/img/backgrounds/novitai_shore_uwd_logotop.jpg" %}
 Shore - Top
-{% thumb src="/img/backgrounds/novitai_shore_uwd_logotop.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
 <hr />
 
 <a name="uhd" style="top:-90px; position: relative;"></a>
 **Ultra HD Display**
 
+{% assign image_path="/img/backgrounds/novitai_brightisland_uhd_logobottom.jpg" %}
 Bright Island - Bottom
-{% thumb src="/img/backgrounds/novitai_brightisland_uhd_logobottom.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
+
+{% assign image_path="/img/backgrounds/novitai_brightisland_uhd_logotop.jpg" %}
 Bright Island - Top
-{% thumb src="/img/backgrounds/novitai_brightisland_uhd_logotop.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
 <hr />
 
+{% assign image_path="/img/backgrounds/novitai_brightshore_uhd_logobottom.jpg" %}
 Bright Shore - Bottom
-{% thumb src="/img/backgrounds/novitai_brightshore_uhd_logobottom.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
+{% assign image_path="/img/backgrounds/novitai_brightshore_uhd_logotop.jpg" %}
 Bright Shore - Top
-{% thumb src="/img/backgrounds/novitai_brightshore_uhd_logotop.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
 <hr />
 
+{% assign image_path="/img/backgrounds/novitai_shore_uhd_logobottom.jpg" %}
 Shore - Bottom
-{% thumb src="/img/backgrounds/novitai_shore_uhd_logobottom.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
+{% assign image_path="/img/backgrounds/novitai_shore_uhd_logotop.jpg" %}
 Shore - Top
-{% thumb src="/img/backgrounds/novitai_shore_uhd_logotop.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
 <hr />
+
+{% assign image_path="/img/backgrounds/novitai_island_uhd_logobottom.jpg" %}
 
 Island - Bottom
-{% thumb src="/img/backgrounds/novitai_island_uhd_logobottom.jpg" width=729 %}
+<a href="{{ image_path }}" download>
+{% image_tag src=image_path width=729 %}</a>
+{% assign image_path="/img/backgrounds/novitai_island_uhd_logotop.jpg" %}
 Island - Top
-{% thumb src="/img/backgrounds/novitai_island_uhd_logotop.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
 <hr />
 
+{% assign image_path="/img/backgrounds/novitai_shore_uhd_logobottom.jpg" %}
 Shore - Bottom
-{% thumb src="/img/backgrounds/novitai_shore_uhd_logobottom.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
+{% assign image_path="/img/backgrounds/novitai_shore_uhd_logotop.jpg" %}
 Shore - Top
-{% thumb src="/img/backgrounds/novitai_shore_uhd_logotop.jpg" width=729 %}
+<a href="{{ image_path }}" download>{% image_tag src=image_path width=729 %}</a>
 <hr />
 
 > Contact us at [info@novit.ai][1]
