@@ -16,11 +16,11 @@ background: '/img/abqaiq_report/abqaiq_shorter.png'
 
 </style>
 
-On September 14, 2019 there was an attack on the state-owned [Saudi Aramco][1] (TADAWUL) company's oil processing facilities at Abqaiq. The attack caused massive fires which were visible from the city. This again provides a good opportunity to observe the size and effect of the damage caused on global oil supply.
+On September 14, 2019 there was an attack on the [Saudi Aramco][1] (TADAWUL) oil processing facilities at Abqaiq. The attack caused massive fires which were visible from the surrounding settlements. This again provides a good opportunity to observe the size and effect of the damage caused on global oil supply.
 
 <img class="img-fluid" src="{{ "img/abqaiq_report/usgov_abqaiq_satimg.jpg"  | relative_url }}">
 
-Although not much visible from space, some smoke can be observed from optical satellite imagery even on the morning of September 15th, 2019. 
+Although specific damage might not be easily noticeable from space at first, some smoke from the facility as well as flares nearby are readily apparent from optical satellite imagery even on the morning of September 15th, 2019.
 <table>
     <tr>
 		<td>
@@ -37,7 +37,7 @@ Although not much visible from space, some smoke can be observed from optical sa
             <span class="smalltext">Higher-resolution is available upon clicking on imagery.</span>
         </td>
 		<td>
-			<span class="smalltext" style="text-align: right;">© European Commission, 2019</span>
+			<span class="smalltext" style="text-align: right;">© Novit.AI, European Commission, 2019</span>
 		</td>
 	</tr>
 </table>
@@ -46,9 +46,9 @@ Although not much visible from space, some smoke can be observed from optical sa
 
 The question is then; *Abqaiq being one of the largest facilities on the globe, how did this affect the oil supply chain?*
 
-Novit.AI can answer that question both visually and with numbers. Novit.AI's **Shlep Live** tracks world's largest oil processing facilities, production centres, key strategic ports and canals for transporting oil. By having this information an analysis can be made about the geospatial supply and demand based on factual data.
+Novit.AI can answer that question both visually and with quantified insights generated with AI. Novit.AI's **Shlep Live** tracks world's largest oil processing facilities, production centres, key strategic ports and canals for transporting oil. By having this information, an analysis can be made about the supply based on factual data.
 
-In below figure, 3 screenshots focusing on the map-view of Ras Tanura Anchorage area from dates before and after the attack. Visually it can be observed that there has been a significant rise in the number of vessels in the waiting area.
+In the figure below, there are screenshots focusing on the map-view of Ras Tanura Anchorage area from dates before and after the attack. Visually it can be observed that there has been a significant rise in the number of vessels in the waiting area.
 
 <table>
     <tr>
@@ -97,22 +97,22 @@ On top of this we are also able to measure the lengths of the vessels and predic
     <span class="smalltext">> Higher-resolution is available upon clicking on imagery.</span>
 </table>
 
-Finally, our user interface plots the number of vessels in observation area with respect to dates. This provides an intuitive view for observing the potential bottlenecks in the supply chain. In below figure, which is also part of our user interface the unprecedented rise in number of waiting vessels can be observed even easier.
+Finally, our user interface plots the number of vessels in observation area with respect to dates. This provides an intuitive view for observing the potential bottlenecks in the supply chain and the figure below shows the sudden rise in the amount of ships waiting in the anchorage area.
 
 <a href="{{ "img/abqaiq_report/histogram.jpg"  | relative_url }}" target="_blank"><img class="img-fluid" src="{{ "img/abqaiq_report/histogram.jpg"  | relative_url }}"></a><span class="smalltext">> Higher-resolution is available upon clicking on imagery.</span>
 
 
-But even then, it looks like this doesn't look like this is something that hasn't happened before. This is why we introduced our "Change Over Time" function to optionally plot a differential of the number of vessels in view. With this view, after the attacks on Abqaiq it can be observed that this kind of rise in waiting vessels is so unprecedented that it has never happened at least within the last 2 years. 
+But even then, the unprecedented nature of the event might not be easy to notice due to natural fluctuations that happen now and then. This is why we introduced our "Change Over Time" function to optionally plot a differential of the number of vessels in view. With this view, after the attacks on Abqaiq it can be observed that this kind of rise in waiting vessels is so unusual that something of this magnitude has never happened before within our recording period of the past two years.
 
-The red plot line in figure below is the "Change Over Time" function and it shows how much the numbers have changed with respect to previous ship count. The blue dotted line shows this kind of rise has never happened in 2 years time.
+The red plot line in the figure below is the aforementioned "Change Over Time" function and it shows how much the numbers have changed with respect to the previous ship count. The blue dotted line shows this kind of rise has never happened in 2 years time.
 
 <a href="{{ "img/abqaiq_report/histogram_wDiff.jpg"  | relative_url }}" target="_blank"><img class="img-fluid" src="{{ "img/abqaiq_report/histogram_wDiff.jpg"  | relative_url }}"></a><span class="smalltext">> Higher-resolution is available upon clicking on imagery.</span>
 
-Our user interface also provides and Excel export functionality for those who would like even more detailed data such as the marked ship locations, specific dates and times of the satellite acquisitions, and our AI's measurement of the ship lengths. This of course also allows analysts to use us as a data source for their multi-source analyses. A sample export from Ras Tanura Anchorage is included with this report and can be downloaded [here.][2]
+Our user interface also provides an Excel export functionality for those who would like even more detailed data such as the marked ship locations, specific dates and times of the satellite acquisitions, and our AI's specific measurements of the ship lengths. This allows analysts to use us as a data source for their multi-source analyses and to feed data into their pre-made models. A sample export from Ras Tanura Anchorage is included with this report and can be downloaded [here.][2]
 
 <a href="{{ "img/abqaiq_report/excel_export.png"  | relative_url }}" target="_blank"><img class="img-fluid" src="{{ "img/abqaiq_report/excel_export.png"  | relative_url }}"></a><span class="smalltext">> Higher-resolution is available upon clicking on imagery.</span>
 
-Bringing it all together Novit.AI's product provides an intuitive visual and numerical data source for your analysis needs. Our portal covers the largest ports on the world and it's expanding.
+Bringing it all together Novit.AI's product provides an intuitive visual and numerical data source for your analysis needs. Our portal covers some of the largest oil terminals in the world and we're constantly at work expanding it.
 
 <a href="{{ "img/abqaiq_report/full.jpg"  | relative_url }}" target="_blank"><img class="img-fluid" src="{{ "img/abqaiq_report/full.jpg"  | relative_url }}"></a><span class="smalltext">> Higher-resolution is available upon clicking on imagery.</span>
 
