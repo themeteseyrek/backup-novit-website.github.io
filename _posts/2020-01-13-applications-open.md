@@ -8,12 +8,6 @@ background: '/img/posts/05.jpg'
 
 **Job and Internship Applications Open**
 
-<style type="text/css">
-.postimg {
-	width: 729px;
-}
-</style>
-
 > <i>This job advert can be downloaded as a PDF from <a href="{{"jobs/nv-8-job-machinelearning-junior.pdf" | relative_url }}" download>here.</a></i>
 
 Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights. We are now seeking engineers who are makers at soul to help us create the next generation of intelligence on earth.

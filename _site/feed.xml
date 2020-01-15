@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-15T10:35:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Novit.ai</title><subtitle>Real and actionable industry insights from global machine learning</subtitle><author><name>Novit.ai</name></author><entry><title type="html">Job &amp;amp; Internship Applications Open</title><link href="http://localhost:4000/2020/01/13/applications-open.html" rel="alternate" type="text/html" title="Job &amp; Internship Applications Open" /><published>2020-01-13T13:45:13+03:00</published><updated>2020-01-13T13:45:13+03:00</updated><id>http://localhost:4000/2020/01/13/applications-open</id><content type="html" xml:base="http://localhost:4000/2020/01/13/applications-open.html">&lt;p&gt;&lt;strong&gt;Job and Internship Applications Open&lt;/strong&gt;&lt;/p&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-.postimg {
-	width: 729px;
-}
-&lt;/style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://192.168.88.203:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.88.203:4000/" rel="alternate" type="text/html" /><updated>2020-01-15T14:29:20+03:00</updated><id>http://192.168.88.203:4000/feed.xml</id><title type="html">Novit.ai</title><subtitle>Real and actionable industry insights from global machine learning</subtitle><author><name>Novit.ai</name></author><entry><title type="html">Job &amp;amp; Internship Applications Open</title><link href="http://192.168.88.203:4000/2020/01/13/applications-open.html" rel="alternate" type="text/html" title="Job &amp; Internship Applications Open" /><published>2020-01-13T13:45:13+03:00</published><updated>2020-01-13T13:45:13+03:00</updated><id>http://192.168.88.203:4000/2020/01/13/applications-open</id><content type="html" xml:base="http://192.168.88.203:4000/2020/01/13/applications-open.html">&lt;p&gt;&lt;strong&gt;Job and Internship Applications Open&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i&gt;This job advert can be downloaded as a PDF from &lt;a href=&quot;/jobs/nv-8-job-machinelearning-junior.pdf&quot; download=&quot;&quot;&gt;here.&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
@@ -72,7 +66,7 @@ deployment is an advantage.&lt;/li&gt;
     }
   }
 })();
-&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Job and Internship Applications Open</summary></entry><entry><title type="html">Novit.AI Background Pack</title><link href="http://localhost:4000/2020/01/01/novitai-background-pack.html" rel="alternate" type="text/html" title="Novit.AI Background Pack" /><published>2020-01-01T16:23:13+03:00</published><updated>2020-01-01T16:23:13+03:00</updated><id>http://localhost:4000/2020/01/01/novitai-background-pack</id><content type="html" xml:base="http://localhost:4000/2020/01/01/novitai-background-pack.html">&lt;p&gt;&lt;strong&gt;Novit.AI Background Pack&lt;/strong&gt;&lt;/p&gt;
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Job and Internship Applications Open</summary></entry><entry><title type="html">Novit.AI Background Pack</title><link href="http://192.168.88.203:4000/2020/01/01/novitai-background-pack.html" rel="alternate" type="text/html" title="Novit.AI Background Pack" /><published>2020-01-01T16:23:13+03:00</published><updated>2020-01-01T16:23:13+03:00</updated><id>http://192.168.88.203:4000/2020/01/01/novitai-background-pack</id><content type="html" xml:base="http://192.168.88.203:4000/2020/01/01/novitai-background-pack.html">&lt;p&gt;&lt;strong&gt;Novit.AI Background Pack&lt;/strong&gt;&lt;/p&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 .postimg {
@@ -165,7 +159,126 @@ deployment is an advantage.&lt;/li&gt;
     }
   }
 })();
-&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Novit.AI Background Pack</summary></entry><entry><title type="html">Grace 1 Detection Report</title><link href="http://localhost:4000/2019/07/06/grace1-report.html" rel="alternate" type="text/html" title="Grace 1 Detection Report" /><published>2019-07-06T13:45:13+03:00</published><updated>2019-07-06T13:45:13+03:00</updated><id>http://localhost:4000/2019/07/06/grace1-report</id><content type="html" xml:base="http://localhost:4000/2019/07/06/grace1-report.html">&lt;p&gt;&lt;strong&gt;GRACE 1 DETECTION REPORT&lt;/strong&gt;&lt;/p&gt;
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Novit.AI Background Pack</summary></entry><entry><title type="html">Abqaiq Assault Report</title><link href="http://192.168.88.203:4000/2019/09/19/abqaiq-report.html" rel="alternate" type="text/html" title="Abqaiq Assault Report" /><published>2019-09-19T20:45:13+03:00</published><updated>2019-09-19T20:45:13+03:00</updated><id>http://192.168.88.203:4000/2019/09/19/abqaiq-report</id><content type="html" xml:base="http://192.168.88.203:4000/2019/09/19/abqaiq-report.html">&lt;p&gt;&lt;strong&gt;The Attack on Abqaiq from Space&lt;/strong&gt;&lt;/p&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+
+.smalltext {
+	font-size: 8px;
+}
+
+&lt;/style&gt;
+
+&lt;p&gt;On September 14, 2019 there was an attack on the state-owned &lt;a href=&quot;https://www.saudiaramco.com&quot;&gt;Saudi Aramco&lt;/a&gt; (TADAWUL) company’s oil processing facilities at Abqaiq. The attack caused massive fires which were visible from the city. This again provides a good opportunity to observe the size and effect of the damage caused on global oil supply.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/usgov_abqaiq_satimg.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although not much visible from space, some smoke can be observed from optical satellite imagery even on the morning of September 15th, 2019.&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+		&lt;td&gt;
+			12-Sep-2019
+			&lt;a href=&quot;/img/abqaiq_report/Sentinel_2019-09-12_07-06.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/Sentinel_2019-09-12_07-06.jpg&quot; /&gt;&lt;/a&gt;
+		&lt;/td&gt;
+		&lt;td&gt;
+			15-Sep-2019
+			&lt;a href=&quot;/img/abqaiq_report/Sentinel_2019-09-15_07-16.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/Sentinel_2019-09-15_07-16.jpg&quot; /&gt;&lt;/a&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr style=&quot;text-align: right;&quot;&gt;
+		&lt;td style=&quot;text-align: left;&quot;&gt;
+            &lt;span class=&quot;smalltext&quot;&gt;Higher-resolution is available upon clicking on imagery.&lt;/span&gt;
+        &lt;/td&gt;
+		&lt;td&gt;
+			&lt;span class=&quot;smalltext&quot; style=&quot;text-align: right;&quot;&gt;© European Commission, 2019&lt;/span&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;The question is then; &lt;em&gt;Abqaiq being one of the largest facilities on the globe, how did this affect the oil supply chain?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Novit.AI can answer that question both visually and with numbers. Novit.AI’s &lt;strong&gt;Shlep Live&lt;/strong&gt; tracks world’s largest oil processing facilities, production centres, key strategic ports and canals for transporting oil. By having this information an analysis can be made about the geospatial supply and demand based on factual data.&lt;/p&gt;
+
+&lt;p&gt;In below figure, 3 screenshots focusing on the map-view of Ras Tanura Anchorage area from dates before and after the attack. Visually it can be observed that there has been a significant rise in the number of vessels in the waiting area.&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            12-Sep-2019
+            &lt;a href=&quot;/img/abqaiq_report/12sep2019_screenshot.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/12sep2019_screenshot.jpg&quot; /&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            15-Sep-2019
+            &lt;a href=&quot;/img/abqaiq_report/15sep2019_screenshot.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/15sep2019_screenshot.jpg&quot; /&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            16-Sep-2019
+            &lt;a href=&quot;/img/abqaiq_report/16sep2019_screenshot.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/16sep2019_screenshot.jpg&quot; /&gt;&lt;/a&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;text-align: right;&quot;&gt;
+        &lt;td style=&quot;text-align: left;&quot;&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;span class=&quot;smalltext&quot; style=&quot;text-align: right;&quot;&gt;© European Commission, 2019&lt;/span&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;span class=&quot;smalltext&quot;&gt;&amp;gt; Higher-resolution is available upon clicking on imagery.&lt;/span&gt;
+&lt;/table&gt;
+
+&lt;p&gt;On top of this we are also able to measure the lengths of the vessels and predict their commercial class via use of state-of-the-art machine learning techniques. A table of vessels in the map view can also be observed from the user interface which resides next to the map. Similar to above, the rise in vessels can also be observed from the tables.&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;vertical-align: top;&quot;&gt;
+            12-Sep-2019
+            &lt;a href=&quot;/img/abqaiq_report/12sep2019_table.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/12sep2019_table.jpg&quot; /&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            15-Sep-2019
+            &lt;a href=&quot;/img/abqaiq_report/15sep2019_table.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/15sep2019_table.jpg&quot; /&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            16-Sep-2019
+            &lt;a href=&quot;/img/abqaiq_report/16sep2019_table.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/16sep2019_table.jpg&quot; /&gt;&lt;/a&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;span class=&quot;smalltext&quot;&gt;&amp;gt; Higher-resolution is available upon clicking on imagery.&lt;/span&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Finally, our user interface plots the number of vessels in observation area with respect to dates. This provides an intuitive view for observing the potential bottlenecks in the supply chain. In below figure, which is also part of our user interface the unprecedented rise in number of waiting vessels can be observed even easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/abqaiq_report/histogram.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/histogram.jpg&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;smalltext&quot;&gt;&amp;gt; Higher-resolution is available upon clicking on imagery.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;But even then, it looks like this doesn’t look like this is something that hasn’t happened before. This is why we introduced our “Change Over Time” function to optionally plot a differential of the number of vessels in view. With this view, after the attacks on Abqaiq it can be observed that this kind of rise in waiting vessels is so unprecedented that it has never happened at least within the last 2 years.&lt;/p&gt;
+
+&lt;p&gt;The red plot line in figure below is the “Change Over Time” function and it shows how much the numbers have changed with respect to previous ship count. The blue dotted line shows this kind of rise has never happened in 2 years time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/abqaiq_report/histogram_wDiff.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/histogram_wDiff.jpg&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;smalltext&quot;&gt;&amp;gt; Higher-resolution is available upon clicking on imagery.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Our user interface also provides and Excel export functionality for those who would like even more detailed data such as the marked ship locations, specific dates and times of the satellite acquisitions, and our AI’s measurement of the ship lengths. This of course also allows analysts to use us as a data source for their multi-source analyses. A sample export from Ras Tanura Anchorage is included with this report and can be downloaded &lt;a href=&quot;/cases/RasTanuraAnchorage_12Sep2019to19Sep2019.xlsx&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/abqaiq_report/excel_export.png&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/excel_export.png&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;smalltext&quot;&gt;&amp;gt; Higher-resolution is available upon clicking on imagery.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Bringing it all together Novit.AI’s product provides an intuitive visual and numerical data source for your analysis needs. Our portal covers the largest ports on the world and it’s expanding.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/abqaiq_report/full.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/abqaiq_report/full.jpg&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;smalltext&quot;&gt;&amp;gt; Higher-resolution is available upon clicking on imagery.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;For more information, please reach out to us at &lt;a href=&quot;mailto:contact@novit.ai&quot;&gt;contact@novit.ai&lt;/a&gt;&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i &lt; links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">The Attack on Abqaiq from Space</summary></entry><entry><title type="html">Grace 1 Detection Report</title><link href="http://192.168.88.203:4000/2019/07/06/grace1-report.html" rel="alternate" type="text/html" title="Grace 1 Detection Report" /><published>2019-07-06T13:45:13+03:00</published><updated>2019-07-06T13:45:13+03:00</updated><id>http://192.168.88.203:4000/2019/07/06/grace1-report</id><content type="html" xml:base="http://192.168.88.203:4000/2019/07/06/grace1-report.html">&lt;p&gt;&lt;strong&gt;GRACE 1 DETECTION REPORT&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i&gt;To download this report as a PDF &lt;a href=&quot;/cases/ship_ai_discovery.pdf&quot; download=&quot;&quot;&gt;click here.&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
@@ -173,63 +286,57 @@ deployment is an advantage.&lt;/li&gt;
 
 &lt;p&gt;Ships engaged in clandestine behaviour turning off their AIS transponders to avoid tracking is nothing new, however, with the advent of artificial intelligence and the tools of New Space, this no longer prevents tracking. The recent seizure of VLCC &lt;em&gt;Grace 1&lt;/em&gt; (IMO &lt;strong&gt;9116412&lt;/strong&gt; ) off coast Gibraltar provides a perfect example.&lt;/p&gt;
 
-&lt;style type=&quot;text/css&quot;&gt;
-.postimg {
-	width: 729px;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image001.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image001.png&quot; /&gt;
 &lt;strong&gt;Figure 1&lt;/strong&gt;: &lt;em&gt;Grace 1&lt;/em&gt; GPS track overview from AIS, 07/04/19 to 05/07/19 (&lt;a href=&quot;https://marinetraffic.com&quot;&gt;marinetraffic.com&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;The ship's AIS signal showed it coming from the gulf and traversing the Cape before being stopped whilst crossing Gibraltar. However, where specifically &lt;em&gt;Grace 1&lt;/em&gt; loaded at inside Arabian Gulf is not in public record, because the transponder was turned off.&lt;/p&gt;
 
 &lt;p&gt;The ship disappears from records on the 7th April 2019, around 12:00pm UTC, and is not seen again for 10 days in AIS records. The point where the ship disappeared was about 160 nautical miles south-east from Kharg Island. From its past speed we can extrapolate that &lt;em&gt;Grace 1&lt;/em&gt; would have the ability to reach Kharg in roughly 18 hours.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image002.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image002.png&quot; /&gt;
 &lt;strong&gt;Figure&lt;/strong&gt;  &lt;strong&gt;2&lt;/strong&gt; : Part of &lt;em&gt;Grace 1&lt;/em&gt;'s journey in the Arabian Gulf where AIS was turned off (&lt;a href=&quot;https://marinetraffic.com&quot;&gt;marinetraffic.com&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;While the route trajectory is estimated as highly likely towards Kharg Island, and matches the return route originating closer to the island, this by itself is no evidence since the ship could have altered trajectory and went somewhere else.&lt;/p&gt;
 
 &lt;p&gt;We now take a look using satellites to see verify what is happening, and we look at Kharg, projected as the most likely destination. Kharg Island is important for being where the overwhelming majority of Iranian oil exports are loaded.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image003.jpg&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image003.jpg&quot; /&gt;
 &lt;strong&gt;Figure 3&lt;/strong&gt; : Satellite image of Kharg Island, off coast Iran (ESA via Novit.AI)&lt;/p&gt;
 
 &lt;p&gt;Our SHLEP AI automatically detects and classifies a vessel of VLCC class, with an estimated length of 330m on the 8th April 2019, 7:00am UTC. This matches the public record of &lt;em&gt;Grace 1&lt;/em&gt;, and it's possible for it to have reached Kharg within the blackout period based on the distance and speed. The ship we see is unaccounted for in AIS records as well.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image004.jpg&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image004.jpg&quot; /&gt;
 &lt;strong&gt;Figure 4&lt;/strong&gt; : Suspected Grace-1 marked as VLCC by AI at Kharg Island, with the ship zoomed in&lt;/p&gt;
 
 &lt;p&gt;We also match the specific berth the vessel is by and verify it's one outfitted for Iranian crude oil, making it highly unlikely for the eventual cargo to be Fuel Oil, as declared.&lt;/p&gt;
 
 &lt;p&gt;We can also take a look using synthetic aperture radar satellites, where we gain the ability to see through cloudy weather as well. Radar images are not as easy to understand as optical images for humans, but it makes little difference for artificial intelligence. We verify the ship to still be at the same place on the 9th April 2019, 2:00am UTC.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image005.jpg&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image005.jpg&quot; /&gt;
 &lt;strong&gt;Figure 5&lt;/strong&gt; : Suspected Grace-1 marked as VLCC by AI at Kharg Island, with the ship zoomed in&lt;/p&gt;
 
 &lt;p&gt;SHLEP verifies that it is a ship of the exact same size, and we can see that the position has not changed. For this specific berth, a ship of this class getting filled would take at least 20 hours which is in line with what we are seeing.&lt;/p&gt;
 
 &lt;p&gt;On the 13th April, 2019 we verify that the ship has by then left the port.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image006.jpg&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image006.jpg&quot; /&gt;
 &lt;strong&gt;Figure 6&lt;/strong&gt; : Suspected Grace-1 marked as VLCC by AI at Kharg Island, with the ship zoomed in&lt;/p&gt;
 
 &lt;p&gt;The ship then re-appears on record, just 22 nautical miles south from Kharg on the 17th April 2019 and what happens subsequently is for the most part in public record.&lt;/p&gt;
 
 &lt;p&gt;The outstanding question is whether the 330m VLCC that appeared on Kharg a day after &lt;em&gt;Grace 1&lt;/em&gt; turned off its transponder, a day away from Kharg, is in fact &lt;em&gt;Grace 1&lt;/em&gt;. For this, we compare the past images of &lt;em&gt;Grace 1&lt;/em&gt;, obtained at locations where the ship's AIS transponder was on, and the information was publicly accessible.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image007.jpg&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image007.jpg&quot; /&gt;
 &lt;strong&gt;Figure 7&lt;/strong&gt; : Suspected Grace-1 marked as VLCC by AI at Kharg Island, with the ship zoomed in&lt;/p&gt;
 
 &lt;p&gt;SHLEP identifies &lt;em&gt;Grace 1&lt;/em&gt; as a 330m VLCC, from these three consecutive captures, just like the one noted in Kharg Island. We do a feature match between the images of &lt;em&gt;Grace 1&lt;/em&gt; here and at Kharg to account for differences in lighting and the result is a full match. Going a step further, we added to the comparison the image of &lt;em&gt;Grace 1&lt;/em&gt; obtained by Planet following its anchoring in Gibraltar.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image008.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image008.png&quot; /&gt;
 (Source: &lt;a href=&quot;https://tankertrackers.com&quot;&gt;tankertrackers.com&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;We overlay the images to again obtain a full match in features, handling different observable colours from instrumentation and sunlight.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;postimg&quot; src=&quot;/img/grace1_release%20candidate0_files/image009.jpg&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/grace1_release%20candidate0_files/image009.jpg&quot; /&gt;
 &lt;strong&gt;Figure 8&lt;/strong&gt; : Suspected Grace-1 marked as VLCC by AI at Kharg Island, with the ship zoomed in&lt;/p&gt;
 
 &lt;p&gt;Despite claims to the contrary, &lt;em&gt;Grace 1&lt;/em&gt; was in Kharg Island next to a terminal for crude oil, verified by artificial intelligence.&lt;/p&gt;
