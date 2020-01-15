@@ -14,7 +14,7 @@ background: '/img/posts/05.jpg'
 }
 </style>
 
-> <i>This job advert can be downloaded as a PDF from <a href="{{"jobs/nv-7-job-machinelearning-junior.pdf" | relative_url }}" download>here.</a></i>
+> <i>This job advert can be downloaded as a PDF from <a href="{{"jobs/nv-8-job-machinelearning-junior.pdf" | relative_url }}" download>here.</a></i>
 
 Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights. We are now seeking engineers who are makers at soul to help us create the next generation of intelligence on earth.
 
@@ -24,7 +24,7 @@ Novit.AI is a London-based start-up developing novel machine learning solutions 
 Ankara, Turkey – Novit.AI @ ODTU Teknokent
 
 **The Role:**
-As a Junior Machine Learning Engineer, you will be a core member of he team in developing our AI
+As a Junior Machine Learning Engineer, you will be a core member of the team in developing our AI
 system for processing spaceborne image and radar data. The ideal candidate would be passionate about
 creating intelligent products never seen elsewhere before. You must be a self-starter, responsive,
 flexible, and able to succeed within an open collaborative peer environment.
