@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://192.168.88.203:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.88.203:4000/" rel="alternate" type="text/html" /><updated>2020-01-15T14:29:20+03:00</updated><id>http://192.168.88.203:4000/feed.xml</id><title type="html">Novit.ai</title><subtitle>Real and actionable industry insights from global machine learning</subtitle><author><name>Novit.ai</name></author><entry><title type="html">Job &amp;amp; Internship Applications Open</title><link href="http://192.168.88.203:4000/2020/01/13/applications-open.html" rel="alternate" type="text/html" title="Job &amp; Internship Applications Open" /><published>2020-01-13T13:45:13+03:00</published><updated>2020-01-13T13:45:13+03:00</updated><id>http://192.168.88.203:4000/2020/01/13/applications-open</id><content type="html" xml:base="http://192.168.88.203:4000/2020/01/13/applications-open.html">&lt;p&gt;&lt;strong&gt;Job and Internship Applications Open&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2020-01-21T17:05:50+03:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Novit.ai</title><subtitle>Real and actionable industry insights from global machine learning</subtitle><author><name>Novit.ai</name></author><entry><title type="html">Spaceborne Construction Detection and Progress Tracking</title><link href="http://0.0.0.0:4000/2020/01/16/construction-detection-and-progress-tracking.html" rel="alternate" type="text/html" title="Spaceborne Construction Detection and Progress Tracking" /><published>2020-01-16T15:06:13+03:00</published><updated>2020-01-16T15:06:13+03:00</updated><id>http://0.0.0.0:4000/2020/01/16/construction-detection-and-progress-tracking</id><content type="html" xml:base="http://0.0.0.0:4000/2020/01/16/construction-detection-and-progress-tracking.html">&lt;style type=&quot;text/css&quot;&gt;
+.smalltext {
+	font-size: 8px;
+}
+&lt;/style&gt;
+
+&lt;p&gt;In this post we will talk about the potential use of near bi-weekly satellite imagery combined with AI for contruction detection and tracking development progress and we’ll present 2 examples of our observations.&lt;/p&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-1by1&quot;&gt;
+    &lt;video class=&quot;embed-responsive-item&quot; autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt;
+      &lt;source src=&quot;/img/construction_detection_progress_tracking/shale/optic/rgb-fast.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+    &lt;/video&gt;
+&lt;/div&gt;
+&lt;div class=&quot;smalltext&quot; style=&quot;text-align: right;&quot;&gt;© European Commission, 2019&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Contruction Detection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For various reasons detection of construction events from space is a needed commodity. Some of these reasons can be summarised as below.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;illegal construction detection&lt;/li&gt;
+  &lt;li&gt;oil rigs &amp;amp; shale site detection&lt;/li&gt;
+  &lt;li&gt;renewable/fossil fuel based energy plant detection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using satellite imagery we now can derive factual data that analytics businesses can use. In below figures you can see the detection and in fact the build progress of a shale site using radar imagery.&lt;/p&gt;
+
+&lt;p&gt;While observing note that radar and satellite acquisitions are done at different dates so even though there’s good overlap of construction stages, the events (big changes in frame) do not necessarily overlap.&lt;/p&gt;
+
+&lt;table class=&quot;table table-responsive&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;div class=&quot;embed-responsive-1by1&quot;&gt;
+                &lt;video class=&quot;embed-responsive-item&quot; autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt;
+                  &lt;source src=&quot;/img/construction_detection_progress_tracking/shale/radar/output.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+                Your browser does not support the video tag.
+                &lt;/video&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;div class=&quot;embed-responsive-1by1&quot;&gt;
+                &lt;video class=&quot;embed-responsive-item&quot; autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt;
+                  &lt;source src=&quot;/img/construction_detection_progress_tracking/shale/optic/ucrop/output.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+                Your browser does not support the video tag.
+                &lt;/video&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;span class=&quot;smalltext&quot; style=&quot;text-align: right;&quot;&gt;© European Commission, 2019&lt;/span&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note that these radar images are post-processed with our own algorithms to maximise observability of events.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the above sequences in both radar and optical imagery, certain construction events are clearly distinguishable. While this is only a small example and may not be so obvious for the untrained eye, an task-specific AI model can detect construction events at a massive scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Progress Development&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Apart from scanning massive areas for detection events sometimes it’s more important to focus on a single site and track its progress. For this we’ll now look at Istanbul Sabiha Gokcen Airport (SAW) and observe its &lt;a href=&quot;https://www.routesonline.com/airports/6063/istanbul-sabiha-gokcen-international-airport/news/279911/new-domestic-terminal-building-at-istanbul-sabiha-gokcen-international-airport-to-boost-passenger-capacity-to-41-million/&quot;&gt;expansion&lt;/a&gt; from 2015 to 2019. Since there are too many images this sequence is sped up to 0.1 seconds per acquisition.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note that this video may take a while to load. Hover your mouse over the video to see controls&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-1by1&quot;&gt;
+    &lt;video class=&quot;embed-responsive-item&quot; controls=&quot;&quot;&gt;
+      &lt;source src=&quot;/img/construction_detection_progress_tracking/isg_expansion/optic/output.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+    &lt;/video&gt;
+&lt;/div&gt;
+&lt;div class=&quot;smalltext&quot; style=&quot;text-align: right;&quot;&gt;© European Commission, 2019&lt;/div&gt;
+
+&lt;p&gt;The slow but steady progress of the expansion can be seen just below the main airstrips. Thanks to the non-reflective (to radar) nature of asphalt, a similar expansion can also be observed in radar imagery which is presented below.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This sequence is from 2017 to 2019 unlike the optical imagery due to historical availability.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-1by1&quot;&gt;
+    &lt;video class=&quot;embed-responsive-item&quot; controls=&quot;&quot;&gt;
+      &lt;source src=&quot;/img/construction_detection_progress_tracking/isg_expansion/radar/output.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+    &lt;/video&gt;
+&lt;/div&gt;
+&lt;div class=&quot;smalltext&quot; style=&quot;text-align: right;&quot;&gt;© European Commission, 2019&lt;/div&gt;
+
+&lt;p&gt;Notice the increasing darkness under the mainstrips which are also pitch black compared to other areas. This provide a means to track the development of a construction even if there’s cloud coverage.&lt;/p&gt;
+
+&lt;p&gt;Our post processing algorithm combines SAR (synthetic aperture radar) images obtained via different polarisations to bring out the advantages of both acquisitions. This even allows us to even make a manual surface roughness/smoothness analysis or even help us estimate sea state.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For a basic understanding of how SAR imagery works &lt;a href=&quot;https://www.radartutorial.eu/20.airborne/ab07.en.html&quot;&gt;radartutorial.eu&lt;/a&gt; is an incredible source for basics.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For your needs of spaceborne detection and tracking needs and for more information, please reach out to us at &lt;a href=&quot;mailto:contact@novit.ai&quot;&gt;contact@novit.ai&lt;/a&gt;&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i &lt; links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html"></summary></entry><entry><title type="html">Job &amp;amp; Internship Applications Open</title><link href="http://0.0.0.0:4000/2020/01/13/applications-open.html" rel="alternate" type="text/html" title="Job &amp; Internship Applications Open" /><published>2020-01-13T13:45:13+03:00</published><updated>2020-01-13T13:45:13+03:00</updated><id>http://0.0.0.0:4000/2020/01/13/applications-open</id><content type="html" xml:base="http://0.0.0.0:4000/2020/01/13/applications-open.html">&lt;p&gt;&lt;strong&gt;Job and Internship Applications Open&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i&gt;This job advert can be downloaded as a PDF from &lt;a href=&quot;/jobs/nv-8-job-machinelearning-junior.pdf&quot; download=&quot;&quot;&gt;here.&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
@@ -66,7 +171,7 @@ deployment is an advantage.&lt;/li&gt;
     }
   }
 })();
-&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Job and Internship Applications Open</summary></entry><entry><title type="html">Novit.AI Background Pack</title><link href="http://192.168.88.203:4000/2020/01/01/novitai-background-pack.html" rel="alternate" type="text/html" title="Novit.AI Background Pack" /><published>2020-01-01T16:23:13+03:00</published><updated>2020-01-01T16:23:13+03:00</updated><id>http://192.168.88.203:4000/2020/01/01/novitai-background-pack</id><content type="html" xml:base="http://192.168.88.203:4000/2020/01/01/novitai-background-pack.html">&lt;p&gt;&lt;strong&gt;Novit.AI Background Pack&lt;/strong&gt;&lt;/p&gt;
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Job and Internship Applications Open</summary></entry><entry><title type="html">Novit.AI Background Pack</title><link href="http://0.0.0.0:4000/2020/01/01/novitai-background-pack.html" rel="alternate" type="text/html" title="Novit.AI Background Pack" /><published>2020-01-01T16:23:13+03:00</published><updated>2020-01-01T16:23:13+03:00</updated><id>http://0.0.0.0:4000/2020/01/01/novitai-background-pack</id><content type="html" xml:base="http://0.0.0.0:4000/2020/01/01/novitai-background-pack.html">&lt;p&gt;&lt;strong&gt;Novit.AI Background Pack&lt;/strong&gt;&lt;/p&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 .postimg {
@@ -159,7 +264,44 @@ deployment is an advantage.&lt;/li&gt;
     }
   }
 })();
-&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Novit.AI Background Pack</summary></entry><entry><title type="html">Abqaiq Assault Report</title><link href="http://192.168.88.203:4000/2019/09/19/abqaiq-report.html" rel="alternate" type="text/html" title="Abqaiq Assault Report" /><published>2019-09-19T20:45:13+03:00</published><updated>2019-09-19T20:45:13+03:00</updated><id>http://192.168.88.203:4000/2019/09/19/abqaiq-report</id><content type="html" xml:base="http://192.168.88.203:4000/2019/09/19/abqaiq-report.html">&lt;p&gt;&lt;strong&gt;The Attack on Abqaiq from Space&lt;/strong&gt;&lt;/p&gt;
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Novit.AI Background Pack</summary></entry><entry><title type="html">Sonon Showcase</title><link href="http://0.0.0.0:4000/2019/12/17/ais-based-tracking-showcase.html" rel="alternate" type="text/html" title="Sonon Showcase" /><published>2019-12-17T17:32:13+03:00</published><updated>2019-12-17T17:32:13+03:00</updated><id>http://0.0.0.0:4000/2019/12/17/ais-based-tracking-showcase</id><content type="html" xml:base="http://0.0.0.0:4000/2019/12/17/ais-based-tracking-showcase.html">&lt;p&gt;&lt;strong&gt;Ship tracking via AIS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+
+.smalltext {
+	font-size: 8px;
+}
+
+&lt;/style&gt;
+
+&lt;p&gt;Maritime tracking heavily depends on automatic identification system (AIS) which is an automatic tracking system that uses transponders on ships and is used by vessel traffic services (VTS). When satellites are used to detect AIS signatures, the term Satellite-AIS (S-AIS) is used. AIS information supplements marine radar, which continues to be the primary method of collision avoidance for water transport &lt;a href=&quot;https://en.wikipedia.org/wiki/Automatic_identification_system&quot;&gt;(AIS)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/img/ais_tracking/1024px-Ais_dcu_bridge.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Marine vessels above {size}, which are almost all ocean-faring ones, must carry a transponder as an international requirement. Most of the time these signals can be recorded and kept by even marine-enthusiasts from the coasts, but on open seas usually satellites are the best way to capture the information. This essentially gives us a means to track vessels with their AIS transponders on, and this information is used in many industries.&lt;/p&gt;
+
+&lt;p&gt;A customer interested in the past comings and goings of ships approached us for a convenient way to determine clandestine naval behaviour.&lt;/p&gt;
+
+&lt;p&gt;For this, we built a web interface for both getting the search query and representing the data. We then built a system querying the ship information from public sources. The size, the class, …&lt;/p&gt;
+
+&lt;p&gt;2-Gather AIS Data from multiple sources&lt;/p&gt;
+
+&lt;p&gt;3-Determine potentially “unnatural” gaps, if any&lt;/p&gt;
+
+&lt;p&gt;4-Provide information on a web interface&lt;/p&gt;
+
+&lt;p&gt;For more information, please reach out to us at &lt;a href=&quot;mailto:contact@novit.ai&quot;&gt;contact@novit.ai&lt;/a&gt;&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i &lt; links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">Ship tracking via AIS</summary></entry><entry><title type="html">Abqaiq Assault Report</title><link href="http://0.0.0.0:4000/2019/09/19/abqaiq-report.html" rel="alternate" type="text/html" title="Abqaiq Assault Report" /><published>2019-09-19T20:45:13+03:00</published><updated>2019-09-19T20:45:13+03:00</updated><id>http://0.0.0.0:4000/2019/09/19/abqaiq-report</id><content type="html" xml:base="http://0.0.0.0:4000/2019/09/19/abqaiq-report.html">&lt;p&gt;&lt;strong&gt;The Attack on Abqaiq from Space&lt;/strong&gt;&lt;/p&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 
@@ -278,7 +420,7 @@ deployment is an advantage.&lt;/li&gt;
     }
   }
 })();
-&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">The Attack on Abqaiq from Space</summary></entry><entry><title type="html">Grace 1 Detection Report</title><link href="http://192.168.88.203:4000/2019/07/06/grace1-report.html" rel="alternate" type="text/html" title="Grace 1 Detection Report" /><published>2019-07-06T13:45:13+03:00</published><updated>2019-07-06T13:45:13+03:00</updated><id>http://192.168.88.203:4000/2019/07/06/grace1-report</id><content type="html" xml:base="http://192.168.88.203:4000/2019/07/06/grace1-report.html">&lt;p&gt;&lt;strong&gt;GRACE 1 DETECTION REPORT&lt;/strong&gt;&lt;/p&gt;
+&lt;/script&gt;</content><author><name>Novit.ai</name></author><summary type="html">The Attack on Abqaiq from Space</summary></entry><entry><title type="html">Grace 1 Detection Report</title><link href="http://0.0.0.0:4000/2019/07/06/grace1-report.html" rel="alternate" type="text/html" title="Grace 1 Detection Report" /><published>2019-07-06T13:45:13+03:00</published><updated>2019-07-06T13:45:13+03:00</updated><id>http://0.0.0.0:4000/2019/07/06/grace1-report</id><content type="html" xml:base="http://0.0.0.0:4000/2019/07/06/grace1-report.html">&lt;p&gt;&lt;strong&gt;GRACE 1 DETECTION REPORT&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i&gt;To download this report as a PDF &lt;a href=&quot;/cases/ship_ai_discovery.pdf&quot; download=&quot;&quot;&gt;click here.&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
