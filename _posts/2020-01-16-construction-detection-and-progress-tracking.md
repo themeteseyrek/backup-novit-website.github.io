@@ -12,7 +12,7 @@ background: '/img/construction_detection_progress_tracking/isg-Sentinel_2016-01-
 }
 </style>
 
-In this post we will talk about the potential use of near bi-weekly satellite imagery combined with AI for contruction detection and tracking development progress and we'll present 2 examples of our observations.
+In this post we will talk about the potential use of near bi-weekly satellite imagery combined with AI for construction detection and tracking development progress and we'll present 2 examples of our observations.
 
 <div class="embed-responsive embed-responsive-1by1">
     <video class="embed-responsive-item"  autoplay loop controls>
@@ -22,7 +22,7 @@ In this post we will talk about the potential use of near bi-weekly satellite im
 </div>
 <div class="smalltext" style="text-align: right;">© European Commission, 2019</div>
 
-**Contruction Detection**
+**Construction Detection**
 
 For various reasons detection of construction events from space is a needed commodity. Some of these reasons can be summarised as below.
 - illegal construction detection
