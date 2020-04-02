@@ -12,7 +12,7 @@ facebook_username:
 linkedin_username:  novitai
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-162568103-1
+google_analytics:   UA-162568103-2
 
 # Build settings
 markdown:           kramdown
