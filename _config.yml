@@ -26,3 +26,9 @@ plugins:
 
 srcset:
   cache: "/tmp/images"
+
+collections:
+  positions:
+    output: true
+  investigations:
+    output: true

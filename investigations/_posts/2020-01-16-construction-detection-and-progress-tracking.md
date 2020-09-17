@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: investigations
 title: "Spaceborne Construction Detection and Progress Tracking"
 subtitle: "Even under cloud coverage with SAR imagery (radar)"
 date: 2020-01-16 15:06:13 +0300

@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: investigations
 title: "Grace 1 Detection Report"
 subtitle: "Novit.AI's findings on the Iranian Tanker Grace 1's whereabouts during the time its AIS was turned off"
 date: 2019-07-06 10:45:13 -0000
 background: '/img/posts/06.jpg'
+
 ---
 
 **GRACE 1 DETECTION REPORT**

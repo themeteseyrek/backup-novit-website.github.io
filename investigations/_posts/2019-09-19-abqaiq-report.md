@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: investigations
 title: "Abqaiq Assault Report"
 subtitle: "Novit.AI's observations on the Attack on Abqaiq and Shlep Live project's reflection"
 date: 2019-09-19 17:45:13 -0000
