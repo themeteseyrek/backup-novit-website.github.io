@@ -6,7 +6,7 @@
       <div class="container text-center">
         <div class="row justify-content-center mx-auto">
           <div class="col-lg-12">
-            <form action="https://getsimpleform.com/messages?form_api_token=67c4e193f41e579202f3492e63d3261f" method="POST" enctype="multipart/form-data">
+            <form action="https://egv9g2c8p7.execute-api.eu-west-2.amazonaws.com/dev" enctype="multipart/form-data">
             <!--<form action="https://formspree.io/careers@novit.ai" method="POST">-->
               <div class="row justify-content-center mx-auto">
                 <div class="col-md-6 text-center">
@@ -45,7 +45,7 @@
                     <p class="help-block text-danger"></p>
                   </div>
                   <div class="form-group">
-                    <input type="checkbox" id="working" name="Is currently working there?" value="Yes" onclick="myFunction()">
+                    <input type="checkbox" id="working" name="Is currently working there" value="Yes" onclick="myFunction()">
                     <label style="color:white; text-align: left;" for="working"> I currently work here.</label><br>
                   </div>
                   <div class="form-group">
@@ -112,6 +112,7 @@
                 </div>
               </div>
             </form>
+            <p id="js-form-response"></p>
           </div>
         </div>
       </div>
@@ -131,4 +132,60 @@
           document.getElementById("to").disabled = false;
         }
       }
+
+/*      (() => {
+        const form = document.querySelector('form');
+        const formResponse = document.querySelector('js-form-response');
+
+        form.onsubmit = e => {
+          e.preventDefault();
+
+          // Prepare data to send
+          const data = {};
+          const formElements = Array.from(form);
+          formElements.map(input => (data[input.name] = input.value));
+
+          // Log what our lambda function will receive
+          console.log(JSON.stringify(data));
+        };
+      })();*/
+
+      (() => {
+        const form = document.querySelector('form');
+        const formResponse = document.querySelector('js-form-response');
+
+        form.onsubmit = e => {
+          e.preventDefault();
+
+          // Prepare data to send
+          const data = {};
+          const formElements = Array.from(form);
+          formElements.map(input => (data[input.name] = input.value));
+
+          // Log what our lambda function will receive
+          console.log(JSON.stringify(data));
+
+          // Construct an HTTP request
+          var xhr = new XMLHttpRequest();
+          xhr.open(form.method, form.action, true);
+          xhr.setRequestHeader('Accept', 'application/json; charset=utf-8');
+          xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+
+          // Send the collected data as JSON
+          xhr.send(JSON.stringify(data));
+
+          // Callback function
+          xhr.onloadend = response => {
+            if (response.target.status === 200) {
+              // The form submission was successful
+              form.reset();
+              formResponse.innerHTML = 'Thank you. We’ll be in touch shortly.';
+            } else {
+              // The form submission failed
+              formResponse.innerHTML = 'Something went wrong';
+              console.error(JSON.parse(response.target.response).message);
+            }
+          };
+        };
+      })();
     </script>
