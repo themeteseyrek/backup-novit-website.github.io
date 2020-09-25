@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: investigations
 title: "AIS Data Processing"
 subtitle: "Marine Vessel Tracking from Satellite and Terrestrial Receivers"
 date: 2019-12-17 14:32:13 -0000

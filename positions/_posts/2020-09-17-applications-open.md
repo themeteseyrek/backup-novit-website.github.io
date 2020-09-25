@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: positions
 title: "Job & Internship Applications Open"
 subtitle: "Junior Machine Learning Engineer"
 date: 2020-01-13 10:45:13 -0000

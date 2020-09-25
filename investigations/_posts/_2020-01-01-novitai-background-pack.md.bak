@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: investigations
 title: "Novit.AI Background Pack"
 subtitle: "Satellite images for UHD and UWD displays"
 date: 2020-01-01 13:23:13 -0000
