@@ -8,7 +8,7 @@ background: '/img/posts/05.jpg'
 
 **Job and Internship Applications Open**
 
-> <i>This job advert can be downloaded as a PDF from <a href="{{"jobs/nv-8-job-machinelearning-junior.pdf" | relative_url }}" download>here.</a></i>
+> <i>This job advert can be downloaded as a PDF from <a href="{{"jobs/nv-10-job-geospatial-jr.pdf" | relative_url }}" download>here.</a></i>
 
 Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights. We are now seeking engineers who are makers at soul to help us create the next generation of intelligence on earth.
 
@@ -18,10 +18,7 @@ Novit.AI is a London-based start-up developing novel machine learning solutions 
 Ankara, Turkey – Novit.AI @ ODTU Teknokent
 
 **The Role:**
-As a Junior Machine Learning Engineer, you will be a core member of the team in developing our AI
-system for processing spaceborne image and radar data. The ideal candidate would be passionate about
-creating intelligent products never seen elsewhere before. You must be a self-starter, responsive,
-flexible, and able to succeed within an open collaborative peer environment.
+As a Geospatial Systems Engineer, you will be a core member of the team in developing our AI system for deploying spaceborne image and radar data. The ideal candidate would be passionate about creating intelligent products never seen before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment.
 
 **The ideal candidate:**
  - Enjoys working side by side with partners, colleagues and teams on tough problems
@@ -34,20 +31,19 @@ from a challenge
 engineering field
  - Native level fluency in Python
  - Excellent command of written and spoken English
- - Knowledge and understanding of Linux
- - Experience with development tools like git version control system, ssh, gcc and make
- - Knowledge of data science and machine learning concepts
+ - Knowledge and understanding of GNU/Linux
+ - Experience with development tools like git version control system, ssh
+ - Experience with postgresql and handling large volumes of data in a performant manner
  - Experience with PyTorch or Tensorflow
 
 **PREFERRED QUALIFICATIONS**
  - Master's degree or higher in Computer Science, Computer Engineering, Electrical Engineering or
 related field
- - Familiarity with GCP or AWS and related cloud tools is a plus.
- - Experience with software testing (unit, regression and system testing), continuous integration &
-deployment is an advantage.
- - Experience with data gathering and labelling from esoteric sources is an advantage.
- - Experience with Octave/Erlang/LISP/Haskell is an advantage.
- - Familiarity with geospatial tools and processing techniques is a plus.
+ - Demonstrable full-stack experience in taking compute-heavy applications to the web
+ - Familiarity with AWS, DigitalOcean and related cloud tooling
+ - Experience with software testing (unit, regression and system testing), continuous integration
+ - Experience with Julia/LISP/Haskell is an advantage.
+ - Familiarity with satellites, geospatial tools and processing techniques is a plus.
 
 
 > Contact us with your CV and your github/gitlab/personal website via [careers@novit.ai][1]
