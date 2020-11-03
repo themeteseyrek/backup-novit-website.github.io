@@ -2,7 +2,7 @@
 layout: positions
 title: "Job & Internship Applications Open"
 subtitle: "Junior Edge AI Engineer"
-date: 2020-01-13 10:45:13 -0000
+date: 2020-11-03 10:45:13 -0000
 background: '/img/posts/05.jpg'
 ---
 
