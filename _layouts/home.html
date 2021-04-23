@@ -24,7 +24,7 @@ layout: default
   </header>
 
   <div class="container">
-  
+
   <a name="services" style="top:-80px; position: relative;" > </a>
     {% include portfolio.html %}
     <div class="col-md-12" style="display: block; height: 15px">
@@ -32,11 +32,6 @@ layout: default
     {% comment %}
     {% include projects.html %}
     {% endcomment %}
-
-  </a>
-
-  <a name="team" style="top:-80px; position: relative;" > </a>
-    {% include team.html %}
   </a>
 
 
@@ -75,7 +70,7 @@ layout: default
               {{ site.author }}
               {% endif %}
               on
-              {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+              {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
             </p>
           </article>
 
@@ -128,7 +123,7 @@ layout: default
               {{ site.author }}
               {% endif %}
               on
-              {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+              {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
             </p>
           </article>
 
@@ -136,7 +131,6 @@ layout: default
 
           {% endfor %}
 
-          <!-- Pager -->
           <div class="clearfix">
             <a class="btn btn-primary float-right" href="{{"/positions" | relative_url }}">View All Open Positions &rarr;</a>
           </div>
