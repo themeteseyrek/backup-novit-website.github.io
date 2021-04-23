@@ -6,13 +6,10 @@ baseurl:            ""
 url:                "https://novitai-website.github.io"
 
 # Social Profiles
-twitter_username:  
+twitter_username:
 github_username:
 facebook_username:
 linkedin_username:  novitai
-
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-162568103-2
 
 # Build settings
 markdown:           kramdown
