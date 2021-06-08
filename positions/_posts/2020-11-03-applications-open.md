@@ -48,9 +48,9 @@ related field
 deployment is an advantage.
  - Prior experience with wireless networking stacks and network-level debugging is a big plus
 
-
-> Contact us with your CV and your github/gitlab/personal website via [careers@novit.ai][1]
-
+<div class="clearfix text-center">
+    <a class="btn btn-primary " target="_blank" href="https://jobs.novit.ai">Apply for the job</a>
+</div>
 -
 
 [1]: mailto:careers@novit.ai

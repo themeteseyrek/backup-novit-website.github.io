@@ -46,7 +46,9 @@ related field
  - Familiarity with satellites, geospatial tools and processing techniques is a plus.
 
 
-> Contact us with your CV and your github/gitlab/personal website via [careers@novit.ai][1]
+<div class="clearfix text-center">
+    <a class="btn btn-primary " target="_blank" href="https://jobs.novit.ai/job2">Apply for the job</a>
+</div>
 
 -
 
