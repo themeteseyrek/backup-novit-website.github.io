@@ -64,4 +64,5 @@ In Novit.AI we believe that multidimensional human beings are the drivers of cre
 *We are eager to hear about you!*
 
 Contact us with your CV and your github/gitlab/personal website via careers@novit.ai
+
 Be part of the future! 🚀
