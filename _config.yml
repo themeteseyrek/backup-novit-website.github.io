@@ -29,3 +29,5 @@ collections:
     output: true
   investigations:
     output: true
+
+future: true
