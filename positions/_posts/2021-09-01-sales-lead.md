@@ -41,4 +41,5 @@ Novit.AI is a start-up developing novel machine learning solutions to achieve tr
 *We are eager to hear about you!*
 
 Contact us with your CV via careers@novit.ai
+
 Be part of the future! 🚀
