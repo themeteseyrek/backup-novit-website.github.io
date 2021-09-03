@@ -9,7 +9,7 @@ background: '/img/posts/05.jpg'
 
 > We are looking for a **Sales Lead** to join our team in Ankara to lead our sales efforts to the next level. This role is partially remote, and you must have an existing right to reside and work in Turkey to be considered for this role.
 
-This job advert can be downloaded as a pdf from [**here**](https://cloud.novit.ai/index.php/s/AZg6BEnCPKwziNz)
+This job advert can be downloaded as a pdf from [**here**](https://cloud.novit.ai/index.php/s/cpECD68JJ7zFrDa)
 
 ## A little about us:
 Novit.AI is a start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
@@ -34,7 +34,6 @@ Novit.AI is a start-up developing novel machine learning solutions to achieve tr
 * Communicating with customers for R&D products under active development
 * Excellent command of written and spoken English
 * Strong analytical skills to self-evaluate and alter strategies accordingly
-* Excellent command of written and spoken English
 * Experience in searching for, generating and retaining leads
 * Familiarity with SaaS industry and IoT products
 
