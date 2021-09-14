@@ -8,7 +8,7 @@ background: '/img/posts/05.jpg'
 
 > We are looking for a **Software Engineer** to join our Engineering team in Ankara. This role is on-site and requires an existing right to reside and work in Turkey.
 
-This job advert can be downloaded as a pdf from [**here**](https://cloud.novit.ai/index.php/s/74gMEsWDcJsj8oW)
+This job advert can be downloaded as a pdf from [**here**](https://cloud.novit.ai/index.php/s/dJMy7HsSHLXXK2t)
 
 ## A little about us:
 Novit.AI is a start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
