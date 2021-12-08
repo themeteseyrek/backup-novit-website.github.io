@@ -6,6 +6,7 @@ date: 2021-12-08 12:40:50 -0000
 background: '/img/posts/05.jpg'
 ---
 
+
 > We are looking for Engineers to take part in our **Graduate Scheme**. Start your career in machine learning by building your own edge AI device with its supporting ecosystem aided by our team. The programme involves on-site attendance (ODTU Teknokent, Ankara) and requires an existing right to reside and work in Turkey.
 
 ## A little about us:
