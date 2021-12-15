@@ -10,7 +10,7 @@ background: '/img/posts/05.jpg'
 > We are looking for Engineers to take part in our **Graduate Scheme**. Start your career in machine learning by building your own edge AI device with its supporting ecosystem aided by our team. The programme involves on-site attendance (ODTU Teknokent, Ankara) and requires an existing right to reside and work in Turkey.
 
 ## A little about us:
-Novit.AI is a London based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
+Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
 
 ## What is waiting for you:
 * An everlasting learning curve. Thrive and grow with us!
