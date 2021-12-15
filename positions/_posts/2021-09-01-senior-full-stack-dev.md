@@ -10,7 +10,7 @@ background: '/img/posts/05.jpg'
 > We are looking for a **Senior Full-Stack Developer** to join our Engineering team in Ankara.
 
 ## A little about us:
-Novit.AI is a start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
+Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
 * Take a sneak-peek on our [webpage](https://novit.ai) to see the kind of projects that we are interested in.
 We are now seeking engineers who are makers at soul to help us create the next generation of intelligence on earth.
 
