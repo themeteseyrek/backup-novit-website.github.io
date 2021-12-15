@@ -10,7 +10,7 @@ background: '/img/posts/05.jpg'
 > We are looking for a **Senior Embedded Software Engineer** to join our Engineering team in Ankara to lead the development of a new, globally deployable low-power Edge AI Camera using cutting edge hardware. This role is on-site and you must have an existing right to reside and work in Turkey to be considered for this role.
 
 ## A little about us:
-Novit.AI is a London based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
+Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
   
 ## Begin your journey at Novit if you are interested in:
 * Writing lots of code. You must enjoy writing programs!
