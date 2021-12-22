@@ -1,6 +1,6 @@
 ---
 layout: positions
-title: "Sr. Embedded Software Engineer"
+title: "Sr. Embedded Software Eng."
 subtitle: "Join Us!"
 date: 2021-12-08 12:42:00 -0000
 background: '/img/posts/05.jpg'
