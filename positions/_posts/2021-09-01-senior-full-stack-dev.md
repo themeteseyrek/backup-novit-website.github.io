@@ -2,7 +2,7 @@
 layout: positions
 title: "Senior Full-Stack Developer"
 subtitle: "Join Us!"
-date: 2021-09-01 10:45:13 -0000
+date: 2021-12-22 17:40:00 -0000
 background: '/img/posts/05.jpg'
 ---
 
