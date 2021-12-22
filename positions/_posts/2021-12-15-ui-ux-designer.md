@@ -1,6 +1,6 @@
 ---
 layout: positions
-title: "Part-time UI/UX Designer"
+title: "UI/UX Designer"
 subtitle: "Join Us!"
 date: 2021-12-15 14:30:00 -0000
 background: '/img/posts/05.jpg'
