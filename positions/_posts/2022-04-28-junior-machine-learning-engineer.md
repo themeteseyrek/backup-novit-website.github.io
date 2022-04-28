@@ -1,6 +1,6 @@
 ---
 layout: positions
-title: "Jr. Engineer (ML)"
+title: "Jr. Machine Learning Eng."
 subtitle: "Join Us!"
 date: 2022-04-28 12:42:00 -0000
 background: '/img/posts/05.jpg'
