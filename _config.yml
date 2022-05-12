@@ -31,3 +31,5 @@ collections:
     output: true
 
 future: true
+
+theme: jekyll-theme-cayman
